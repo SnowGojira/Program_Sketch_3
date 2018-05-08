@@ -1,0 +1,24 @@
+
+/*normalize the web*/
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+li{
+  padding: 0;
+  margin: 0;
+}
+h2 {
+  margin: 0;
+}
